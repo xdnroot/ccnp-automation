@@ -24,9 +24,9 @@
 
 ### **6.5. Interpret REST API response codes and results in payload using Cisco DNA Center and RESTCONF.**
 
-
+* [Enabling RESTCONF on IOS XE](https://developer.cisco.com/docs/ios-xe/#!enabling-restconf-on-ios-xe)
 * Slide [Introduction to Network Programmability](https://files.webiptek.com/Network-Programmability/Introduction%20to%20Network%20Programmability.pdf)
-* [https://devnetsandbox.cisco.com/RM/Diagram/Index/27d9747a-db48-4565-8d44-df318fce37ad?diagramType=Topology](https://devnetsandbox.cisco.com/RM/Diagram/Index/27d9747a-db48-4565-8d44-df318fce37ad?diagramType=Topology)
+* [Devnet Sandbox: IOS XE on CSR Recommended Code AlwaysOn](https://devnetsandbox.cisco.com/RM/Diagram/Index/27d9747a-db48-4565-8d44-df318fce37ad?diagramType=Topology)
 
 ---
 

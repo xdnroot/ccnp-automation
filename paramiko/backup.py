@@ -19,7 +19,7 @@ time.sleep(3)
 output = conn.recv(65535)
 
 output_file=open("{0}.cfg".format(ip_address), "w")
-output_file.write(str(output))
+output_file.write(output.decode("utf-8"))
 output_file.close()
 
 print("Config in {0} saved!!".format(ip_address))
